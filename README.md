@@ -1,6 +1,6 @@
 # ELEVATOR-PROJECT
 
-Using "NUCLEO -F401RE" board based on STM32 microcontroller which is based on ARM-Cortex processor, and "Free RTOS".
+Using "NUCLEO -F401RE" board based on STM32 microcontroller which is based on ARM-Cortex M4 processor, and "Free RTOS".
 
 I developed software to control an elevator by:
 
